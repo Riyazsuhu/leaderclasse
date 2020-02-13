@@ -55,8 +55,8 @@ body{
 .foldpaper{
 	text-align: center;
 	background: #E0EAFC  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #FFFFFF, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ffffff, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 	margin: 3% 7%;
 	padding-top: 5%;
@@ -66,7 +66,7 @@ body{
 .events-bg{
 	margin: 3% 7%; 
 	background-size: cover;
-	background: linear-gradient(110deg, #E0EAFC 60%, #CFDEF3 60%);
+	background: linear-gradient(110deg, #8e9eab 60%, #4BC0C8 60%);
 	border-radius: 25px;
 	text-align: center;
 	padding: 50px;
