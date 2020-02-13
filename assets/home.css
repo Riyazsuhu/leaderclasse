@@ -16,7 +16,6 @@
   font-family: 'Acme', sans-serif;
   width: 100%;
 }
-
 nav.navbar a.nav-link {
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -27,8 +26,6 @@ nav.navbar a.nav-link {
   transition: all 0.3s;
   font-size: 0.875rem;
 }
-
-
 #text{
 	padding-top: 27%;
 	font-size: 30px
