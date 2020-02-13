@@ -16,26 +16,7 @@
   font-family: 'Acme', sans-serif;
   width: 100%;
 }
-nav.navbar {
-  padding-top: 0;
-  padding-bottom: 0;
-  background: #ffffff;
-  border-bottom: 1px solid #e6e6e6;
-}
 
-@media (max-width: 991.98px) {
-  nav.navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-  }
-}
-
-nav.navbar .navbar-brand {
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 700;
-  font-family: "Roboto", serif;
-}
 nav.navbar a.nav-link {
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -46,24 +27,7 @@ nav.navbar a.nav-link {
   transition: all 0.3s;
   font-size: 0.875rem;
 }
-@media (max-width: 991.98px) {
-  nav.navbar a.nav-link {
-    padding-top: 0.7rem;
-    padding-bottom: 0.7rem;
-    border: none;
-  }
-}
 
-nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
-  color: #333;
-  border-top-color: #9055A2;
-}
-
-@media (max-width: 1199.98px) {
-  nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
-    color: #9055A2;
-  }
-}
 
 #text{
 	padding-top: 27%;
